@@ -1,0 +1,36 @@
+{
+    "private": true,
+    "name": "warsawjs-workshop-34-trainer-needed",
+    "description": "",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "clear": "rm -rf dist/",
+        "clear:all": "rm -rf node_modules/ && npm run clear",
+        "start:client": "browser-sync --no-open --no-ui --port 3001 src/client/",
+        "start:server": "node src/server/index.js",
+        "start:server:dev": "nodemon src/server/index.js",
+        "lint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/warsawjs-workshop-34-trainer-needed.git"
+    },
+    "dependencies": {
+        "debug": "^4.1.1",
+        "dotenv": "^8.0.0",
+        "uuid": "^3.3.2",
+        "ws": "^7.0.1"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "eslint": "^5.16.0",
+        "eslint-config-piecioshka": "^2.0.1",
+        "nodemon": "^1.19.1"
+    }
+}

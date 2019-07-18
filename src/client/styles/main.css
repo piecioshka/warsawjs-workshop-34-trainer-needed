@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+
+.message {
+    border: 1px solid;
+    padding: 5px;
+}
