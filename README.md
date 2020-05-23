@@ -1,9 +1,6 @@
 # warsawjs-workshop-34-trainer-needed
 
-[![dependencies](https://david-dm.org/piecioshka/warsawjs-workshop-34-trainer-needed.svg)](https://github.com/piecioshka/warsawjs-workshop-34-trainer-needed)
-[![snyk](https://snyk.io/test/github/piecioshka/warsawjs-workshop-34-trainer-needed/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/warsawjs-workshop-34-trainer-needed?targetFile=package.json)
-
-⛩️ WarsawJS Workshop #34 — Trainer Needed with WebSockets
+⛩️ WarsawJS Workshop #34 — WebSockets — Trainer Needed
 
 ## 🤝 Contributing
 
