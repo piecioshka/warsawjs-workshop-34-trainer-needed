@@ -1,6 +1,6 @@
 # warsawjs-workshop-34-trainer-needed
 
-⛩️ WarsawJS Workshop #34 — WebSockets — Trainer Needed
+⛩️ WarsawJS Workshop #34 — WebSockets
 
 ## 🤝 Contributing
 
