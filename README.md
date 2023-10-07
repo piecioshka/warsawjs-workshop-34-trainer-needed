@@ -7,10 +7,6 @@
 Contributions, issues and feature requests are welcome!<br />
 Feel free to check [issues page](/issues/).
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## Related
 
 * [test-websocket](https://github.com/piecioshka/test-websocket)
